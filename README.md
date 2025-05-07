@@ -75,7 +75,10 @@ __1. 웹사이트[https://dororoko.github.io/Circular-image/Circular_image.html]
 
 
 ### 의견 제안 방법
-- 수정 예정! (깃허브를 쓰는 버릇을 해보지 않아서 모릅니다...)
+1. [깃허브 링크](https://github.com/dororoko/Circular-image) 로 들어갑니다
+2. 상단의 "Issues" 탭을 누릅니다.
+3. 우측의 초록색 "New issue" 버튼을 누릅니다.
+4. 제목과 내용을 작성해주시면 됩니다.
 
 ---
 
