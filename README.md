@@ -29,7 +29,7 @@
 
 
 ### 사용 방법!
-**1.** **웹사이트(*https://dororoko.github.io/Circular-image/Circular_image.html*)**에 들어갑니다.  
+**1. 웹사이트(*https://dororoko.github.io/Circular-image/Circular_image.html*)**에 들어갑니다.  
 **2.** **"한꺼번에 추가" 버튼**을 눌러서 파일 탐색기 창이 켜지면, 원하는 이미지들을 선택한 뒤, 열기(O) 버튼을 클릭합니다.  
 - "추가" 버튼으로 하나씩 추가도 가능합니다.  
 - 원하는 이미지들을 선택할때는 드래그를 사용하거나, Ctrl키+마우스 왼쪽 클릭으로 다중선택이 가능합니다.  
